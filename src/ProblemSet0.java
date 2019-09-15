@@ -83,7 +83,7 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.prin("Three.\tTwo.One.\tGo!\n");
+        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 8.
@@ -91,12 +91,12 @@ public class ProblemSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("  /\     /\     /\");
-        System.out.println(" /  \   /  \   /  \");
-        System.out.println("/    \ /    \ /    \");
-        System.out.println("\    / \    / \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.println("  \/     \/     \/\n");
+        System.out.println("  /\\     /\\     /\\");
+        System.out.println(" /  \\   /  \\   /  \\");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
+        System.out.println(" \\  /   \\  /   \\  /");
+        System.out.println("  \\/     \\/     \\/\n");
 
         /*
          * Exercise 9.
